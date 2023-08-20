@@ -4,6 +4,7 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 import string
 
+#Simple get method.
 @api_view(['GET'])
 def get_letter_detail(request, letter):
     if request.method == 'GET':
