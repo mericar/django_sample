@@ -1,2 +1,2 @@
 # django_sample
-django sample for practice/testing things out.
+Django sample for practice/testing things out. A template for anyone to build off of.
